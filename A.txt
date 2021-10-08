@@ -1,0 +1,4 @@
+public class Babo {
+	public static main(args[] arg){
+	}
+}
